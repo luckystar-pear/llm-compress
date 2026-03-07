@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEW\LLM-COMPRESS\BUILD_AUDIT\CMAKEFILES\0D8DBCB6F463FBD2646C0E659BE633B2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Matthew/llm-compress -BC:/Users/Matthew/llm-compress/build_audit --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Matthew/llm-compress/build_audit/llm-compress.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
